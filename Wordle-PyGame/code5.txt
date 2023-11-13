@@ -1,0 +1,18 @@
+if(matrix[x] [z]== "x"){
+    cola= new ArrayDeque<>();
+    tupla= new Object[]{x,z};
+    cola.add(e: tupla);
+    int temp=0;
+    while(!cola.isEmpty()){
+        tupla = cola.poll();
+        i= (int) tupla[0];
+        j=(int) tupla[1];
+
+        if(0<= i && i< A && 0 <= j && j < B){
+            if(matrix[i] [j]== "X"){
+                
+            }
+        }
+        
+    }
+}
